@@ -1,0 +1,6 @@
+Welcome to this platform
+List of recipes:
+  a. Kheer
+  b. paneer makhne
+  
+  You are free to add some recipes....
